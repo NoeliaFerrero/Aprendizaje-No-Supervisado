@@ -10,7 +10,7 @@
 
   
   <h1 align='center'> -- </h1>
-  <h1 align='center'> EN UNAS SEMANAS ESTARÉ SUBIENDO CONTENIDO A ESTE REPOSITORIO! </h1>
+  <h1 align='center'> PROXIMAMENTE ESTARÉ SUBIENDO CONTENIDO A ESTE REPOSITORIO! </h1>
   <h1 align='center'> -- </h1>
 
 
